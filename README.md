@@ -21,7 +21,6 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-taha-89454922b/)
-[![Virtual Judge](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/virtual-judge-badge.png)](https://vjudge.net/user/yousif_taha)
 
 
 ---
